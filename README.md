@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 ## Demo:
 ```
-python3 redis-message-broker.py
+python3 redis_message_broker.py
 ```
 
 ## Usage

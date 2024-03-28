@@ -16,4 +16,4 @@ python3 redis-message-broker.py
 ## Usage
 In your Python code, import the redis-message-broker.py file
 
-Read demo in redis-message-broker.py main function to know how to use it
+Read demo in redis-message-broker.py main function to know how to use it :)
